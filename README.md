@@ -262,5 +262,3 @@ def train_model():
 3. `export_tflite.py` 将模型转换成tflite格式
 4. `ecg_stm32_viz.py` 上位机软件，用于验证
 5. stm32项目
-6. STM32CubeMX软件 
-7. Keil 5.36
